@@ -1,4 +1,4 @@
-##### This App is Live and Running At the following
+##### This App is Live and Running At the following url
 #### https://jansewa.vercel.app/
 
 ![image](https://github.com/Shrey-Srivastava21/JanSewa_EPICS/assets/78805153/e996daa1-33e1-4c1c-a4a6-86a85d2a7d64)
